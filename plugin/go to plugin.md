@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://tenor.com/view/nahas-kerala-malayalam-mamukoya-salimkumar-gif-12708497"><img title="Author" src="https://img.shields.io/badge/click here for plugin-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://images.app.goo.gl/8WbGpeKn2V7c5bcB8"><img title="Author" src="https://img.shields.io/badge/click here for plugin-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="170" height="170"/>
