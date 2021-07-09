@@ -8,7 +8,6 @@
 </p>
   <p align="center">
 <a href="https://github.com/afnanplk"><img title="Author" src="https://img.shields.io/badge/Author-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5529589.gif" width="473" height="82" alt="pinky" /></a>
 </p>
 </div>
 <p align="center">
