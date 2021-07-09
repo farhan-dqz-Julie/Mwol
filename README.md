@@ -3,6 +3,7 @@
 
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="170" height="170"/>
+  <img border-radius: 15px src="blob:https://loading.io/1abe021a-2070-4e0b-9fd7-ff6d989bffa8" width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
