@@ -1,18 +1,15 @@
-## Thanks for Everything 
-### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83832372?v=4" width="170" height="170"/>
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="PinkyMwol" src="https://img.shields.io/badge/afnanplk-pink?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/afnanplk"><img title="Author" src="https://img.shields.io/badge/Author-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
-<a href="https://cooltext.com"><img src="blob:https://loading.io/1abe021a-2070-4e0b-9fd7-ff6d989bffa8" width="473" height="82" alt="pinky" /></a>
+<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it public
+Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -22,57 +19,34 @@ Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it
 ----
 
   <p align="center">
-  <a href="https://github.com/afnanplk/pinkymwol ">
-    <img src="https://img.shields.io/github/repo-size/afnanplk/pinkymwol?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+    <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=blue&style=flat-square"></a>
-<a href="https://github.com/afnanplk/pinkymwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/pinkymwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/afnanplk/pinkymwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/pinkymwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/afnanplk/pinkymwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/pinkymwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
+<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+</p>
 
-```
-Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
-
-WhatsAsena - Asena Userbot Açık Kaynaklı geliştirmeye açık bir yazılımdır. 
-Yanlış ve amacı dışında kullanımdan doğabilecek tüm sonuçlardan kullanıcı sorumludur. 
-Açık kaynaklı bir proje olduğundan isteyen herkes yazılımı kopyalayıp eklemeler çıkarmalar yapabilir,
-kendi özelleştirdiği biçimde kullanabilir. Ayrıca eklenti (plugin) desteği, 
-orijinal yazılıma kullanıcıların kendi yazdıkları eklentileri yükleyerek istedikleri 
-biçimde kullanmaları özelliğini sağlar.
-Kullanımı tamamen kullanıcının sorumluluğundadır.
-Botu amacı dışında kullanmak, açık bir şekilde yasaklanmanıza sebeb olur.
-Asena Userbot yalnızca bir altyapıdır. Nasıl sonradan yüklenen programlarla 
-yapılan işlerden işletim sistemi sorumlu değilse, 
-WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değildir.
-WhatsAsena'yı para karşılığı pazarlamak, kullanıma sunmak yahut herhangi bir maddi değere sahip
-birşey ile satışa sunmak kesinlikle yasaktır. Doğabilecek tüm yasal soruşturmalardan
-kullanıcı sorumludur.
-
-WhatsAsena - Asena Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
-```
-
-
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  <div align="center">
+       
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
+  </div>
+    
 ## Setup
 <div align="center">
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/afnanplk/pinkyv1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz-Julie/Mwol)
      </div>
 <br>
 <br >
@@ -80,17 +54,32 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 ```
 bash <(curl -L https://t.ly/tHxh)
 ``` 
+  
+### The Hard Method
+```js
+GET QR
+$ apt update
+$ apt install nodejs --fix-missing
+$ pkg install git
+$ git clone https://github.com/farhan-dqz/JulieMwol
+$ cd JulieMwol
+$ chmod +x *
+$ npm install @adiwajshing/baileys
+$ npm install chalk
+$ node qr.js
+```
+      
+```js
+SETUP
+$ git clone https://github.com/farhan-dqz/JulieMwol
+$ cd JulieMwol
+$ chmod +x *
+$ npm i
+$ node qr.js
+   // scan the qr using whatsapp web on your phone
+$ node bot.js
+```
 
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages?
-This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
-
-### What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
-
-### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
 
 ### ⚠️ Warning! 
 ```
@@ -101,13 +90,6 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 ## Developers
-
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://www.fusuf.codes) | [![Phaticusthiccy](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R)
-----|----|----|----|----
-[Yusuf Usta](https://t.me/fusufs) | [Phaticusthiccy](https://github.com/phaticusthiccy) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)
-Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
-  
-## More Developers
   <div align="center">
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
@@ -115,13 +97,8 @@ Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fix
 [farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
+    
 
-## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@itacirgabral](https://github.com/itacirgabral) for helps
-- `Ikarus#7808 (Discord)` for helps
-- [@Unique_hunter](https://t.me/Unique_hunter) for helps and ideas
-- Translators
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
