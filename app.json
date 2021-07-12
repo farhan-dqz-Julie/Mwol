@@ -1,11 +1,11 @@
 {
-    "name": "JulieMwol",
-    "description": "JulieMwol  - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "name": "JulieMwol🧞‍♂️",
+    "description": "JulieMwol - Whatsapp Bot",
     "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/afnanplk/pinky-v1",
-    "website":   "under maintenance",
-    "success_url": "under maintenance",
+    "repository": "https://github.com/farhan-dqz-Julie/Mwol",
+    "website":   "https://t.me/phaticusthiccy",
+    "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
@@ -17,15 +17,15 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "only english language is available",
+            "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
             "required": true,
             "value": "en"
         },
-         "BGM_FILTER": {
+        "BGM_FILTER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
             "value": "true"
-        },   
+        },
         "ANTİ_LİNK": {
             "description": "Link Engelleme Sistemi. Link Blocking System.",
             "required": true,
@@ -34,7 +34,7 @@
         "AUTO_BİO": {
             "description": "Duruma otomatik tarih ve zaman eklemek için true yapın. Set true for auto date, time in biography.",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "HANDLERS": {
             "description": "Komutlar için. For commands.",
@@ -93,7 +93,7 @@
         "WORK_TYPE": {
             "description": "WhatsAsena Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "HEROKU_APP_NAME": {
             "description": "Herokuda uygulama adı. Heroku APP Name.",
@@ -111,12 +111,12 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```coded by afnan pallikkel```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```
         },
         "BAN_MESSAGE": {
-            "description": "Customizable kick Message! Use => default, to change back.",
+            "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false,
-            "value": "good bye"
+            "value": "default"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
@@ -124,9 +124,9 @@
             "value": "default"
         },
         "KICKME_MESSAGE": {
-            "description": "Customizable leave Message! Use => default, to change back.",
+            "description": "Customizable Kickme Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```its time to leave bye bye``` \n"
+            "value": "default"
         },
         "PROMOTE_MESSAGE": {
             "description": "Customizable Promote Message! Use => default, to change back.",
