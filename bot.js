@@ -754,7 +754,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('reply.delete')) {
-                                    return await conn.sendMessage(conn.user.jid, '*😕 ERROR ANALYSIS [PINKY] 😕*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*😕 ERROR ANALYSIS [tiger kuttan] 😕*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '\n\n*Main Error:* _Reply Delete Function_' +
                                         '\n*Reason:* _Using IMG or Wiki commands._' +
