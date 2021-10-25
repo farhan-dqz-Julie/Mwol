@@ -89,15 +89,6 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
-<div align="center">
-    <img border-radius: 15px src="https://m.facebook.com/RedAlphaCyber/photos/a.167984235077577/170161471526520/?type=3&source=44" width="200" height="200"/>
-    
-    [red-alpha](https://github.com/MhmdMukarram)
-Base, Bug Fixes, Modules | Modifiying  as   public | , Modules
-  </div>
-    
-
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
