@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://github.com/mhmdmukrim" width="200" height="200"/>
+  <img border-radius: 15px src="https://static.wikia.nocookie.net/powerlisting/images/f/fb/Megumi_Fushiguro%27s_Divine_Dogs_JUJUTSU_KAISEN.gif/revision/latest?cb=20210212223104" width="300" height="300"/>
   <p align="center">
 <a href="#"><img title= devilalpha src="https://img.shields.io/badge/JulieMwol-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
