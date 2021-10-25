@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="https://static.wikia.nocookie.net/powerlisting/images/f/fb/Megumi_Fushiguro%27s_Divine_Dogs_JUJUTSU_KAISEN.gif/revision/latest?cb=20210212223104" width="600" height="600"/>
   <p align="center">
-<a href="#"><img title= devilalpha src="https://img.shields.io/badge/JulieMwol-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title= devilalpha src="https://img.shields.io/badge/DEVIL-ALPHA-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/mhmdmukrim"><img title="Author" src="https://img.shields.io/badge/Author-mhmdmukrim/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
@@ -91,7 +91,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
   <div align="center">
-    
+src="https://www.jahia.com/partners/all-partners/red-alpha"  
 
 [red-alpha](https://github.com/MhmdMukarram)
 Base, Bug Fixes, Modules | Modifiying  as   public | , Modules
