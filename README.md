@@ -92,8 +92,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-----|----|----
-[red-alpha](https://github.com/MhmdMukarram)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [mhmdmukarram](https://github.com/afnanplk)
+
+[red-alpha](https://github.com/MhmdMukarram)
 Base, Bug Fixes, Modules | Modifiying  as   public | , Modules
   </div>
     
