@@ -1,15 +1,15 @@
 {
-    "name": "JulieMwol 2️⃣",
-    "description": "JulieMwol - Whatsapp Bot",
-    "logo": "https://i.imgur.com/ADXSU8e.jpeg",
+    "name": "DEVIL-ALPHA 2️⃣",
+    "description": "DEVIL-ALPHA - Whatsapp Bot",
+    "logo": "https://static.wikia.nocookie.net/powerlisting/images/f/fb/Megumi_Fushiguro%27s_Divine_Dogs_JUJUTSU_KAISEN.gif/revision/latest?cb=20210212223104",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/farhan-dqz-Julie/Mwol",
+    "repository": "https://github.com/mhmdmukrim/Mwol",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
+        "DEVIL_SESSION": {
+            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours DEVIL Session.",
             "required": true
         },
         "SUDO": {
