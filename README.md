@@ -90,9 +90,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 ## Developers
-  <div align="center">
-src="https://www.jahia.com/partners/all-partners/red-alpha"  
-
+<div align="center">
+  <img border-radius: 15px src="https://www.jahia.com/partners/all-partners/red-alpha" width="200" height="200"/> 
 [red-alpha](https://github.com/MhmdMukarram)
 Base, Bug Fixes, Modules | Modifiying  as   public | , Modules
   </div>
