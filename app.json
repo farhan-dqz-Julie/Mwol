@@ -116,7 +116,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```OWNER:-```\n```https://wa.me/qr/P3UWE4GQZKQUL1```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
